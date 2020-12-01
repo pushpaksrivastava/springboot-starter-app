@@ -3,8 +3,8 @@
 <title>Todo's List</title>
 </head>
 <body>
-Here, are the list of Todos.
-<br>
-${todos }
+Here, are the list of Todos:
+${todos}
+Name is ${name}
 </body>
 </html>
